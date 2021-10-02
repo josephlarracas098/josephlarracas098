@@ -1,6 +1,7 @@
 <h1 align="center">Yow 👋, I'm Joseph</h1>
 <h3 align="center">A passionate programmer from Philippines</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josephlarracas098&label=Profile%20views&color=0e75b6&style=flat" alt="josephlarracas098" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephlarracas098" alt="josephlarracas098" /></a> </p>
 
@@ -27,5 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephlarracas098&show_icons=true&locale=en&layout=compact" alt="josephlarracas098" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephlarracas098&show_icons=true&locale=en" alt="josephlarracas098" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephlarracas098&" alt="josephlarracas098" /></p>
