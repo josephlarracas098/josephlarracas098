@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephlarracas098&label=Profile%20views&color=0e75b6&style=flat" alt="josephlarracas098" /> </p>
-
+<h3 align="left">About me:</h3>
 - 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
